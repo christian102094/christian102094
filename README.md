@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: @christiancode94 (Twitter)
 
-[![Christian Tapia's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian102094&count_private=true&show_icons=true)]
+[![Christian Tapia's GitHub stats](https://github-readme-stats.vercel.app/api?username=christian102094&count_private=true&show_icons=true)
